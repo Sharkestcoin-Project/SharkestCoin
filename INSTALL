@@ -1,0 +1,9 @@
+Building Sharkestcoin
+
+See doc/readme-qt.rst for instructions on building Sharkestcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sharkestcoin.
+
+See doc/build-*.txt for instructions on building sharkestcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sharkestcoin.
