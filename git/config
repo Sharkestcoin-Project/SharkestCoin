@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/sharkestcoin-project/sharkestcoin.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "0.8"]
+	remote = origin
+	merge = refs/heads/0.8
+[gui]
+	wmstate = normal
+	geometry = 893x435+78+78 175 196
