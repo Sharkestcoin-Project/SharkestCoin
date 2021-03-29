@@ -1,4 +1,4 @@
-Sharkestcoin integration/staging tree
+Sharkestcoin 
 ================================
 
 http://www.sharkestcoin.org
